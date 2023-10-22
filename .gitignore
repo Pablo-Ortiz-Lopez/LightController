@@ -1,0 +1,7 @@
+gerbers
+*-backups
+fp-info-cache
+*.zip
+
+.pio
+.vscode
